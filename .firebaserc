@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "css-assignment-6f5b0"
-  }
+    "default": "css-assignment-6f5b0",
+    "develpment": "css-assignment-6f5b0"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
